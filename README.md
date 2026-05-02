@@ -1,4 +1,4 @@
-# Author : Robin Garhwal
+# Author : Robin Garhwal from rajasthan 
 Create a ubuntu machine 
 sudo su
 wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/jenkins.sh
